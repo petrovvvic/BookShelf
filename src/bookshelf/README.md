@@ -1,0 +1,1 @@
+A desktop application written in Java to track your reading progress. Users can add books by title or ISBN, fetch metadata from the Open Library API, and manage their library through a graphical user interface. All data is stored locally using SQLite.
