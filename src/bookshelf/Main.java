@@ -4,6 +4,5 @@ import java.awt.*;
 
 public final class Main{
     public static void main(String[] args){
-        System.out.println("Bookshelf");
-    }
-}
+        System.out.println("main");
+    }}
